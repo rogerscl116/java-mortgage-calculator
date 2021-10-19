@@ -1,7 +1,7 @@
 # Java Mortgage Calculator
 
 ## Description
-A Java program without a graphical user interface that calculates and displays the mortgage monthly payment when given the amount of the mortgage, the interest rate of the mortgage, and the term of the mortgage.
+A Java program without a graphical user interface that calculates and displays the monthly mortgage payment when given the full amount of the mortgage, the interest rate of the mortgage, and the term of the mortgage.
 
 ## Screenshots
 ![Java Mortgage Calculator Screenshot](./public/images/mortgage-calculator-screenshot.jpg)
@@ -13,10 +13,10 @@ A Java program without a graphical user interface that calculates and displays t
  * [Questions](#questions)
         
 ## Installation
-
+Clone this repository and open folder in appropriate IDE.
    
 ## Usage
-
+Open Main.java and run the program. Answer the prompts to display the monthly mortgage payment.
 
 ## Contributing
 Charity Rogers
